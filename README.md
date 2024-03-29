@@ -1,12 +1,21 @@
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&pause=1000&color=F7277C&vCenter=true&random=false&width=435&lines=Thanawat+Sodkaew)](https://git.io/typing-svg) 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Dk57URqjqjHjNGHeMV/giphy.gif?cid=ecf05e4742gjvyhbos058yvuita6qtbnra5kgryxbm23ypr4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
 </div>
 
+
+
 ## About Me :
+
   
 Hi 👋, I'm Thanawat Sodkaew you can call me Tang, 
 
-an undergraduate student in the Faculty of Computer Engineering from Rajamangala University of Technology Thanyaburi.  <img src="https://media.giphy.com/media/UIN7Andwh7kDZGUvmt/giphy.gif?cid=ecf05e47m5r06wovgbglchpg78vw4l9wmaaakas6v3ia9tv6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150"/>
+an undergraduate student in the Faculty of Computer Engineering from Rajamangala University of Technology Thanyaburi.  
+
+<img src="https://media.giphy.com/media/UIN7Andwh7kDZGUvmt/giphy.gif?cid=ecf05e47m5r06wovgbglchpg78vw4l9wmaaakas6v3ia9tv6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150"/>
 
 ## ✨ My Skills :
 
