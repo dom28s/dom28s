@@ -35,8 +35,6 @@ an undergraduate student in the Faculty of Computer Engineering from Rajamangala
 
 - machine learning
 - computer vision
-- Improve program and network security
-- Design various website pages
 - Mobile Application Development
 
 
