@@ -36,6 +36,8 @@ an undergraduate student in the Faculty of Computer Engineering from Rajamangala
 - machine learning
 - computer vision
 - Mobile Application Development
+- System Engineer
+- Network Engineer
 
 
 ## 🌐 Socials :
